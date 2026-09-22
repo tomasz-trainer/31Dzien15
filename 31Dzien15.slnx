@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="P03WeatherForecastWPF.Client/P03WeatherForecastWPF.Client.csproj" />
+  <Project Path="P04SpeechService/P04SpeechService.csproj" Id="55bc4cd7-2197-447e-8dd1-ede00521257e" />
   <Project Path="P05Shop.API/P05Shop.API.csproj" />
   <Project Path="P06Shop.Shared/P06Shop.Shared.csproj" />
   <Project Path="P07Shop.DataSeeder/P07Shop.DataSeeder.csproj" />
+  <Project Path="P08TextToSpeech/P08TextToSpeech.csproj" Id="de97e550-0ef2-400c-a7a1-eee46837eada" />
 </Solution>
