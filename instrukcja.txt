@@ -1,0 +1,15 @@
+
+wrzucenie aplikacji na azure vm (IAAS)
+
+1) Instalalacja IIS na windows server 
+ - server manager - ad roles and features 
+2) instalacja asp net core hosting bundle 
+
+3) restart servera (iisreset)
+
+4) otworzenie portow w windows firewall 
+  - windows defender firewall with advanced security
+  - inbound rules - new rule - port - TCP - specific local ports: 80 , Allow conection 
+
+5) Otworzenie portow na azure 
+ - networking - inbound port rules - add inbound port rule - port 80, Soruce na * 

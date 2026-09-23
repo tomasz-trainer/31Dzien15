@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="instrukcja.txt" />
+  </Folder>
   <Project Path="P03WeatherForecastWPF.Client/P03WeatherForecastWPF.Client.csproj" />
   <Project Path="P04SpeechService/P04SpeechService.csproj" Id="55bc4cd7-2197-447e-8dd1-ede00521257e" />
   <Project Path="P05Shop.API/P05Shop.API.csproj" />
